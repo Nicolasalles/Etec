@@ -9,14 +9,15 @@
 }
 
 #hrmenu{
-	border: 1px solid;
+	border: 1.5px solid;
+	border-color: #ff9832ac;
 	margin: 10px;
 }
 
 p#tmain{
 	padding: 8px;
 	border-radius: 4px;
-	background-color: rgba(69, 69, 69, 0.167);
+	background-color: rgba(69, 69, 69, 0.099);
 	text-align: left;
 	font-weight: bold;
 	margin: 0px 30px 0px 40px;
