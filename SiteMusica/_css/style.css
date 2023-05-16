@@ -1,0 +1,116 @@
+#menu{
+	margin-top: -20px;
+	text-align:center;
+	color: black;
+	background:white;
+	width: 800px;
+	font-size: 24px;
+
+}
+
+#hrmenu{
+	border: 1px solid;
+	margin: 10px;
+}
+
+p#tmain{
+	padding: 8px;
+	border-radius: 4px;
+	background-color: rgba(69, 69, 69, 0.167);
+	text-align: left;
+	font-weight: bold;
+	margin: 0px 30px 0px 40px;
+	font-size: 25px;
+}
+
+a {
+	font-family:Arial;
+	text-decoration: none;
+	color: black;
+}
+
+a:visited {
+	color: rgb(42, 42, 42);
+	text-decoration:underline;
+}
+
+a:hover{
+	text-decoration: underline;
+}
+
+nav#menu li:hover{
+	background-color: #cccccc60;
+}
+
+nav#menu ul {
+	list-style:none;
+	padding: 0px;
+	
+}
+
+nav#menu li {
+	padding: 14px 20px 14px 20px;
+	display:inline-block;
+	transition: background-color 1s;
+	border-radius: 3px;
+}
+
+body{
+	font-family: Arial, Helvetica, sans-serif;
+	background: linear-gradient(to right, #ffd89b, #FF9932);
+}
+
+div#main{
+	height: block;
+	width: 800px;
+	border: solid;
+	border-width: 1px;
+	border-radius: 5px;
+	box-shadow: 0px 0px 5px rgba(0,0,0,.5);
+	background-color: white;
+	margin: auto;
+	margin-top: -10px;
+}
+
+section#Principal{
+	height: block;
+	padding-right: 20px;
+	margin-left: 20px;
+}
+
+article#fofoca{
+	margin-left: 20px;
+}
+
+article#fofoca h1{
+	font-size: 24px;
+	margin-bottom: -6px;
+}
+
+article#fofoca h2{
+	font-size: 18px;
+	margin-bottom: -5px;
+}
+
+iframe#videos{
+	margin-left: 250px ;
+	border-radius: 5px;
+	box-shadow: 5px 5px 10px rgba(0,0,0,.5);
+}
+
+footer#rodape{
+	font-family: 'Times New Roman', Times, serif;
+	text-align: right;
+	padding-right: 20px;
+}
+
+footer#rodape a{
+	font-family: 'Times New Roman', Times, serif;
+	clear: both;
+	text-decoration: underline;
+}
+
+footer#rodape a:hover{
+	color: rgb(65, 65, 65);
+}
+
