@@ -34,6 +34,7 @@ article#geral h1{
 	background-color: #cccccc60;
 	padding: 10px;
 	border-radius: 4px;
+	background-image: url("partitura.png");
 
 }
 
@@ -149,5 +150,9 @@ footer#rodape a{
 
 footer#rodape a:hover{
 	color: rgb(65, 65, 65);
+}
+
+footer#rodape img{
+	width: 13px;
 }
 
